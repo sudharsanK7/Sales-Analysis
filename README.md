@@ -9,7 +9,7 @@ The goal of this project is to analyze electronic sales data to derive insights 
 ## Project Structure
 
 - 'Sales_Data/': Directory containing the raw data files for each month.
-- 'Sales Analysis.ipynb': Jupyeter notebook containing the sales analysis code.
+- 'Sales Analysis.ipynb': Jupyter notebook containing the sales analysis code.
 - 'year_data.csv': Contains the concatenated data from all the month.
 - **README.md**: Markdown file providing an overview of the project (you're reading it now).
 
